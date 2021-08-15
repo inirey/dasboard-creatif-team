@@ -47,9 +47,9 @@ We are very excited to share this dashboard with you and we look forward to hear
 ## Quick start
 
 - `npm i black-dashboard`
-- Clone the repo: `git clone https://github.com/creativetimofficial/black-dashboard.git`.
-- [Download from Github](https://github.com/creativetimofficial/black-dashboard/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/black-dashboard).
+- Clone the repo: `https://github.com/inirey/dasboard-creatif-team.git`.
+- [Download from Github](https://github.com/inirey/dasboard-creatif-team/archive/master.zip).
+- [Download from Rey Web](https://www.reysekha.my.id).
 
 
 ## Documentation
@@ -147,13 +147,9 @@ If you have questions or need help integrating the product please [contact us]()
 
 ##### Social Media
 
-Twitter: <https://twitter.com/CreativeTim>
+Twitter: <https://twitter.com/sekhaa>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Facebook: <https://www.facebook.com/ReySekha>
 
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+Instagram: <https://instagram.com/_sekhaa>
 
