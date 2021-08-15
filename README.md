@@ -6,11 +6,7 @@
 
 ![Product Gif](https://s3.amazonaws.com/creativetim_bucket/github/gif/black-dashboard.gif)
 
-Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
-Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
-
-Black Dashboard features over 16 individual components, giving you the freedom of choosing and combining. This means that there are thousands of possible combinations. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
-We thought about everything, so this dashboard comes with 2 versions, Dark Mode and Light Mode. 
+Black Dashboard creative team adalah Dasbor Admin Bootstrap 4 yang indah dengan sejumlah besar komponen yang dibuat agar sesuai dan terlihat luar biasa. Jika Anda mencari alat untuk mengelola dan memvisualisasikan data tentang bisnis Anda, dasbor ini cocok untuk Anda. Ini menggabungkan warna yang mudah dilihat, kartu yang luas, tipografi yang indah, dan grafik. Black Dashboard hadir dengan semua plugin yang mungkin Anda perlukan di dalam proyek dan dokumentasi tentang cara memulai. Ini ringan dan mudah digunakan, dan juga sangat kuat. Dasbor Hitam menampilkan lebih dari 16 komponen individual, memberi Anda kebebasan memilih dan menggabungkan. Ini berarti ada ribuan kemungkinan kombinasi. Semua komponen dapat mengambil variasi warna, yang dapat Anda modifikasi dengan mudah menggunakan file SASS. Anda akan menghemat banyak waktu mulai dari membuat prototipe hingga kode yang berfungsi penuh karena semua elemen diimplementasikan. Kami memikirkan segalanya, jadi dasbor ini hadir dengan 2 versi, Mode Gelap dan Mode Terang. 
 
 Special thanks go to:
 - [Robert McIntosh](https://github.com/mouse0270/bootstrap-notify) for the notification system.
@@ -47,9 +43,9 @@ We are very excited to share this dashboard with you and we look forward to hear
 ## Quick start
 
 - `npm i black-dashboard`
-- Clone the repo: `git clone https://github.com/creativetimofficial/black-dashboard.git`.
-- [Download from Github](https://github.com/creativetimofficial/black-dashboard/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/black-dashboard).
+- Clone the repo: `https://github.com/inirey/dasboard-creatif-team.git`.
+- [Download from Github](https://github.com/inirey/dasboard-creatif-team/archive/master.zip).
+- [Download from Rey Web](https://www.reysekha.my.id).
 
 
 ## Documentation
@@ -147,13 +143,9 @@ If you have questions or need help integrating the product please [contact us]()
 
 ##### Social Media
 
-Twitter: <https://twitter.com/CreativeTim>
+Twitter: <https://twitter.com/sekhaa>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Facebook: <https://www.facebook.com/ReySekha>
 
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+Instagram: <https://instagram.com/_sekhaa>
 
